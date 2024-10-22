@@ -25,6 +25,6 @@ Develop a React-based Kanban-board app that interfaces with the provided API by 
   </tr>
 </table>
 
-© 2024 Vishal Patidar
+© 2024 Jayadeep Chenchugari
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
